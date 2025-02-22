@@ -22,7 +22,7 @@ CustomerManager é uma API REST desenvolvida em ASP.NET Core para gerenciamento 
 ## Instalação e Configuração
 ### 1. Clone o repositório
 ```sh
-git clone https://github.com/seu-usuario/CustomerManager.git
+git clone https://github.com/elitonsantana18/CustomerManager.git
 cd CustomerManager
 ```
 
